@@ -1,0 +1,197 @@
+/* .App {
+  height: 100vh;
+  width: 100vw;
+  background-color: white;
+  text-align: center;
+}
+
+
+.heading {
+  text-align: right;
+  padding: 20px;
+}
+
+h1 {
+  margin: 0;
+  padding: 5px;
+  color: crimson;
+  font-size: 40px;
+  display: flex;
+}
+
+h2, h3 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 10px;
+  text-align: left;
+}
+
+.studentinfo {
+padding: 20px;
+display: flex;
+flex-direction: column;
+font-size: 12px;
+} */
+
+
+
+.App {
+  height: 150vh;
+  width: 100vw;
+  text-align: center;
+  background: linear-gradient(110deg, white 60%, orangered 60%);
+}
+
+
+
+#logoimg{
+/* height: 20vh;
+width: 15vw; */
+width: 200px;
+}
+
+
+
+/* .heading {
+  text-align: center;
+  justify-content: center;
+  padding-left: 0px; 
+} */
+
+h1 {
+  margin-top: 10px;
+  padding-left: 20px;
+  color: crimson;
+  font-size: 40px;
+  display: flex;
+}
+
+h2, h3 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: left;
+  padding-left: 20px;
+}
+
+.studentinfo {
+margin-top: 40px;;
+padding-left: 10px;
+display: flex;
+flex-direction: column;
+font-size: 12px;
+}
+
+h4{
+  text-align: left;
+  padding-left: 10px;
+}
+
+#fcepic {
+  margin-top: 20px;
+  padding-left: 10px;
+  /* height: 30vh; */
+  /* width: 15vw; */
+  width: 300px;
+}
+
+button{
+  width: 340px;
+  height: 220px;
+  border-radius: 10%;
+  padding-bottom: 20px;
+  border: solid 2px black;
+}
+.greenButton{
+  background-color: springgreen;
+  color: black;
+}
+
+.redButton{
+  background-color: red;
+  color: black;
+}
+
+#btn-content{
+  font-size: 30px;
+}
+
+
+footer{
+  width: 100vw;
+  bottom: 0;
+  position: fixed;
+}
+
+.nav{
+  margin-top: 30px;
+  display: flex;
+  font-size: 20px;
+  background-color: black;
+  /* width: 100%; */
+  color: white;
+  justify-content: space-evenly;
+}
+
+.nav a{
+  color: #ffffff;
+}
+
+
+/* @media screen and (min-width:650px) and (max-width: 800px){
+ 
+
+} */
+
+
+
+
+@media screen and (max-width: 500px){
+  
+  .App {
+    height: 110vh;
+  }
+  
+  
+  #fcepic {
+    width: 200px;
+  }
+
+  #logoimg{
+    width: 100px;
+  }
+  
+  .heading h1 {
+    margin-top: 10px;
+    padding-left: 20px;
+    color: crimson;
+    font-size: 20px;
+    display: flex;
+ }
+
+ .heading h2 {
+   font-size: 15px;
+ 
+ }
+.heading h3 {
+  font-size: 15px;
+  
+}
+.studentinfo h4 {
+  font-size: 10px;
+}
+
+#btn-content {
+  width: 240px;
+  height: 120px;
+}
+
+.buttonbox {
+  margin: 10px;
+}
+
+.nav {
+  font-size: 10px;
+}
+
+
+
+
+}

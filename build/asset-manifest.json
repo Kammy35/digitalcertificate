@@ -1,26 +1,29 @@
 {
   "files": {
-    "main.css": "/digitalcertificate/static/css/main.47cdbd07.chunk.css",
-    "main.js": "/digitalcertificate/static/js/main.a043bcc6.chunk.js",
-    "main.js.map": "/digitalcertificate/static/js/main.a043bcc6.chunk.js.map",
+    "main.css": "/digitalcertificate/static/css/main.d238e10d.chunk.css",
+    "main.js": "/digitalcertificate/static/js/main.e94959ea.chunk.js",
+    "main.js.map": "/digitalcertificate/static/js/main.e94959ea.chunk.js.map",
     "runtime-main.js": "/digitalcertificate/static/js/runtime-main.4b8d7974.js",
     "runtime-main.js.map": "/digitalcertificate/static/js/runtime-main.4b8d7974.js.map",
     "static/css/2.67123b20.chunk.css": "/digitalcertificate/static/css/2.67123b20.chunk.css",
-    "static/js/2.7843739e.chunk.js": "/digitalcertificate/static/js/2.7843739e.chunk.js",
-    "static/js/2.7843739e.chunk.js.map": "/digitalcertificate/static/js/2.7843739e.chunk.js.map",
+    "static/js/2.ed290e22.chunk.js": "/digitalcertificate/static/js/2.ed290e22.chunk.js",
+    "static/js/2.ed290e22.chunk.js.map": "/digitalcertificate/static/js/2.ed290e22.chunk.js.map",
     "index.html": "/digitalcertificate/index.html",
-    "precache-manifest.d3b495b8ca006a7f3e12248047572687.js": "/digitalcertificate/precache-manifest.d3b495b8ca006a7f3e12248047572687.js",
+    "precache-manifest.37ae7a87c8429ff87f34e64550e97abc.js": "/digitalcertificate/precache-manifest.37ae7a87c8429ff87f34e64550e97abc.js",
     "service-worker.js": "/digitalcertificate/service-worker.js",
     "static/css/2.67123b20.chunk.css.map": "/digitalcertificate/static/css/2.67123b20.chunk.css.map",
-    "static/css/main.47cdbd07.chunk.css.map": "/digitalcertificate/static/css/main.47cdbd07.chunk.css.map",
-    "static/js/2.7843739e.chunk.js.LICENSE": "/digitalcertificate/static/js/2.7843739e.chunk.js.LICENSE",
-    "static/media/faceimage.png": "/digitalcertificate/static/media/faceimage.ddf46f69.png"
+    "static/css/main.d238e10d.chunk.css.map": "/digitalcertificate/static/css/main.d238e10d.chunk.css.map",
+    "static/js/2.ed290e22.chunk.js.LICENSE": "/digitalcertificate/static/js/2.ed290e22.chunk.js.LICENSE",
+    "static/media/faceimage.png": "/digitalcertificate/static/media/faceimage.ddf46f69.png",
+    "static/media/graduation.jpeg": "/digitalcertificate/static/media/graduation.af66ccc9.jpeg",
+    "static/media/uniparty.jpeg": "/digitalcertificate/static/media/uniparty.213d8ea6.jpeg",
+    "static/media/unipic.jpeg": "/digitalcertificate/static/media/unipic.3c26dca1.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.4b8d7974.js",
     "static/css/2.67123b20.chunk.css",
-    "static/js/2.7843739e.chunk.js",
-    "static/css/main.47cdbd07.chunk.css",
-    "static/js/main.a043bcc6.chunk.js"
+    "static/js/2.ed290e22.chunk.js",
+    "static/css/main.d238e10d.chunk.css",
+    "static/js/main.e94959ea.chunk.js"
   ]
 }

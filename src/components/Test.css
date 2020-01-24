@@ -1,0 +1,35 @@
+button{
+    width: 340px;
+    height: 220px;
+    padding-bottom: 20px;
+    border: solid 2px black;
+  }
+  .greenButton{
+    /* background-color: springgreen; */
+    background-color: chartreuse;
+    color: black;
+  }
+  
+  .redButton{
+    background-color: red;
+    color: black;
+  }
+  
+  #btn-content{
+    font-size: 30px;
+    border-radius: 25px;
+  } 
+  
+
+  @media screen and (max-width: 500px){
+
+  #btn-content {
+    width: 240px;
+    height: 120px;
+  }
+  
+  .buttonbox {
+    margin: 10px;
+  }
+
+}

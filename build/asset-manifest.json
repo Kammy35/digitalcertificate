@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/digitalcertificate/static/css/main.47cdbd07.chunk.css",
-    "main.js": "/digitalcertificate/static/js/main.a7b8f42c.chunk.js",
-    "main.js.map": "/digitalcertificate/static/js/main.a7b8f42c.chunk.js.map",
+    "main.js": "/digitalcertificate/static/js/main.a043bcc6.chunk.js",
+    "main.js.map": "/digitalcertificate/static/js/main.a043bcc6.chunk.js.map",
     "runtime-main.js": "/digitalcertificate/static/js/runtime-main.4b8d7974.js",
     "runtime-main.js.map": "/digitalcertificate/static/js/runtime-main.4b8d7974.js.map",
     "static/css/2.67123b20.chunk.css": "/digitalcertificate/static/css/2.67123b20.chunk.css",
     "static/js/2.7843739e.chunk.js": "/digitalcertificate/static/js/2.7843739e.chunk.js",
     "static/js/2.7843739e.chunk.js.map": "/digitalcertificate/static/js/2.7843739e.chunk.js.map",
     "index.html": "/digitalcertificate/index.html",
-    "precache-manifest.7f4f133cfc3856b5ddf764af646f32d9.js": "/digitalcertificate/precache-manifest.7f4f133cfc3856b5ddf764af646f32d9.js",
+    "precache-manifest.d3b495b8ca006a7f3e12248047572687.js": "/digitalcertificate/precache-manifest.d3b495b8ca006a7f3e12248047572687.js",
     "service-worker.js": "/digitalcertificate/service-worker.js",
     "static/css/2.67123b20.chunk.css.map": "/digitalcertificate/static/css/2.67123b20.chunk.css.map",
     "static/css/main.47cdbd07.chunk.css.map": "/digitalcertificate/static/css/main.47cdbd07.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.67123b20.chunk.css",
     "static/js/2.7843739e.chunk.js",
     "static/css/main.47cdbd07.chunk.css",
-    "static/js/main.a7b8f42c.chunk.js"
+    "static/js/main.a043bcc6.chunk.js"
   ]
 }

@@ -1,0 +1,43 @@
+.mem{
+    display: flex;
+    flex-direction: column;
+    align-content: space-between;
+}
+
+
+#prtypic{
+    width: 500px;
+    padding: 5px;
+}
+
+#unipicture{
+    width: 500px;
+    padding: 5px;
+}
+
+#gradpic{
+    width: 500px;
+    padding: 5px;
+}
+
+@media screen and (max-width: 500px){
+
+
+h1{
+    font-size: 20px;
+}
+
+#prtypic{
+    width: 350px;
+}
+
+#unipicture{
+    width: 350px;
+}
+
+#gradpic{
+    width: 350px;
+}
+
+
+}
